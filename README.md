@@ -1,5 +1,3 @@
-
-
 [PATIKA DEV PROFIL LINK](https://app.patika.dev/razumihin)
 
 ---
