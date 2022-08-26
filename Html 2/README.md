@@ -1,6 +1,6 @@
 # PATIKA DEV HTML ODEV 2
 
-![Proje Görseli](/image/Proje%206.jpg)
+![Proje Görseli](/Html%202/image/Proje%206.jpg)
 
 ---
 

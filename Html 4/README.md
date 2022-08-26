@@ -3,7 +3,7 @@
 
 ---
 
-![Proje Görseli](/image/Yemek%20tarifi.jpg)
+![Proje Görseli](/Html%204/image/Yemek%20tarifi.jpg)
 
 
 

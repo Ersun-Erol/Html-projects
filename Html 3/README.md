@@ -3,8 +3,8 @@
 
 ---
 
-![Proje Görseli](/image/Ana-Sayfa.jpg)
-![Proje Görseli](/image/Hakkimda.jpg)
-![Proje Görseli](/image/Iletisim.jpg)
+![Proje Görseli](/Html%203/image/Ana-Sayfa.jpg)
+![Proje Görseli](/Html%203/image/Hakkimda.jpg)
+![Proje Görseli](/Html%203/image/Iletisim.jpg)
 
 
